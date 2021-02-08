@@ -35,7 +35,7 @@ This is an Android application that tells people who start exercising what kind 
 
 ## ScreenShot
 ![image](https://user-images.githubusercontent.com/59517977/107215135-41de1980-6a4e-11eb-800a-8d6fe93de267.png)
-
+로그인
 ![image](https://user-images.githubusercontent.com/59517977/107215208-5cb08e00-6a4e-11eb-95c0-59d35062aac5.png)
 ![image](https://user-images.githubusercontent.com/59517977/107215267-6fc35e00-6a4e-11eb-984d-9b29de1fcdb1.png)
 ![image](https://user-images.githubusercontent.com/59517977/107215309-7c47b680-6a4e-11eb-8ad5-895b9ecd25b6.png)
