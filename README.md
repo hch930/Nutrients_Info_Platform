@@ -34,3 +34,13 @@ This is an Android application that tells people who start exercising what kind 
 - KakaoLogin: https://developers.kakao.com/docs/latest/ko/kakaologin/common#login
 
 ## ScreenShot
+![image](https://user-images.githubusercontent.com/59517977/107215135-41de1980-6a4e-11eb-800a-8d6fe93de267.png)
+![image](https://user-images.githubusercontent.com/59517977/107215208-5cb08e00-6a4e-11eb-95c0-59d35062aac5.png)
+![image](https://user-images.githubusercontent.com/59517977/107215267-6fc35e00-6a4e-11eb-984d-9b29de1fcdb1.png)
+![image](https://user-images.githubusercontent.com/59517977/107215309-7c47b680-6a4e-11eb-8ad5-895b9ecd25b6.png)
+![image](https://user-images.githubusercontent.com/59517977/107215339-88337880-6a4e-11eb-813b-bfd8a2e77fe2.png)
+![image](https://user-images.githubusercontent.com/59517977/107215416-9ed9cf80-6a4e-11eb-9e1e-de584d6a6728.png)
+![image](https://user-images.githubusercontent.com/59517977/107215444-a7caa100-6a4e-11eb-8f20-ed81dbd1ed9d.png)
+![image](https://user-images.githubusercontent.com/59517977/107215498-b913ad80-6a4e-11eb-8cf9-2d168fa5bb03.png)
+![image](https://user-images.githubusercontent.com/59517977/107215511-be70f800-6a4e-11eb-813d-817d109855b1.png)
+![image](https://user-images.githubusercontent.com/59517977/107215525-c3ce4280-6a4e-11eb-85d3-4671f5f481c8.png)
