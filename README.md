@@ -8,6 +8,11 @@ This is an Android application that tells people who start exercising what kind 
 2. It provides information about supplements.
 3. It offers a low-cost supplement sales service through large shopping channel affiliate marketing.
 
+운동을 시작하는 사람들에게 어떤 종류의 보충제를 먹어야 하는지, 어떻게 먹어야 하는지 알려주는 안드로이드 애플리케이션입니다.
+1. 사용자에게 사용자 정의 보충제를 권장합니다.
+2. 보충제에 대한 정보를 제공합니다.
+3. 대형 쇼핑 채널 제휴 마케팅을 통한 저렴한 보충제 판매 서비스를 제공합니다.
+
 ## Development Environment
 - firebase 11.8.0
 - Android Studio @3.5.3
@@ -18,9 +23,8 @@ This is an Android application that tells people who start exercising what kind 
 
 ## APIs
 - NaverLogin: https://developers.naver.com/products/login/api/
-- FacebookLogin 
-- KakaoLogin
+- FacebookLogin: https://developers.facebook.com/docs/facebook-login/android 
+- KakaoLogin: https://developers.kakao.com/docs/latest/ko/kakaologin/common#login
 
-## Database table information
-database table backup file is in /server/backup.sql <br />
-mysql -u [account] -p [database] < backup.sql
+
+
