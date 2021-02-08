@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.Frag1">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/ContentLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:src="@drawable/assistant"/>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/mike"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:src="@drawable/mike"/>
+            <TextView
+                android:id="@+id/texts1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/mike"
+                android:layout_marginTop="30dp"
+                    android:textSize="20dp"
+                    android:text="음성인식 비서 서비스를 통한 보충제 추천입니다."/>
+            <TextView
+                android:id="@+id/texts2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/texts1"
+                android:textSize="20dp"
+                android:text="음성을 통해 보충제 추천을 받아보세요!"/>
+            <TextView
+                android:id="@+id/texts3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/texts2"
+                android:textSize="20dp"
+                android:text="ex)피로 회복에 좋은 보충제 추천해줘"/>
+        </RelativeLayout>
+    </LinearLayout>
+    </ScrollView>
+</FrameLayout>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragment.Frag2">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/ContentLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:orientation="vertical">
+
+        <TextView
+            android:drawableStart="@drawable/ic_baseline_search_24"
+            android:drawablePadding="15px"
+            android:id="@+id/search_view_src"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginLeft="60px"
+            android:layout_marginRight="60px"
+            android:layout_marginTop="35px"
+            android:layout_marginBottom="20px"
+            android:background="@drawable/searchview_roundbox"
+            android:text="검색어를 입력해주세요"
+            android:textColor="#000000"
+            android:textSize="32px" />
+
+        <androidx.viewpager.widget.ViewPager
+            android:layout_marginTop="5dp"
+            android:id="@+id/photos_viewpager"
+            android:layout_below="@id/search_view_src"
+            android:layout_width="match_parent"
+            android:layout_height="200dp">
+        </androidx.viewpager.widget.ViewPager>
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/tab_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:tabBackground="@drawable/tab_selector"
+            app:tabGravity="center"
+            app:tabIndicatorHeight="0dp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/rank"/>
+    </LinearLayout>
+
+</FrameLayout>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">돌봄</string>
+    <string name="kakao_app_key">93fb77be1a119b9ddc221e4fc8dcf895</string>
+    <string name="facebook_app_id">1361375027388914</string>
+    <string name="fb_login_protocol_scheme">fb1361375027388914</string>
+
+    <string name="splash_name">돌 봄</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">홈</string>
+    <string name="title_search">검색</string>
+    <string name="title_mynutr">나만의 보충제</string>
+    <string name="title_myinfor">내정보</string>
+    <string name="et_search">상품 검색</string>
+    <string name="keyword">Keyword</string>
+
+    <string name="search_label">Products</string>
+    <string name="search_hint">Search Products</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

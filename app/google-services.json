@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "518359482872",
+    "firebase_url": "https://nutrientsinfo.firebaseio.com",
+    "project_id": "nutrientsinfo",
+    "storage_bucket": "nutrientsinfo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518359482872:android:c8b53cd258cd14b7a2560d",
+        "android_client_info": {
+          "package_name": "com.hch.nutrients_info_platform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518359482872-733rvk9dqsjs2t6sttv9tr673qs1h1dh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhXvwuzFWHroDA4vq2dCDyllM707Ke7R8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518359482872-733rvk9dqsjs2t6sttv9tr673qs1h1dh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
