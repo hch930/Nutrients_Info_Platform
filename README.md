@@ -15,7 +15,7 @@ This is an Android application that tells people who start exercising what kind 
 
 ## Development Environment
 - firebase 11.8.0
-- Android Studio @3.5.3
+- Android Studio 4.1.2
 
 ## Application Version
 - minSdkVersion 21
