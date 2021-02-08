@@ -14,7 +14,7 @@ This is an Android application that tells people who start exercising what kind 
 3. 대형 쇼핑 채널 제휴 마케팅을 통한 저렴한 보충제 판매 서비스를 제공합니다.
 
 ## Development Environment
-- firebase 11.8.0
+- irebase 11.8.0
 - Android Studio 4.1.2
 
 ## Application Version
